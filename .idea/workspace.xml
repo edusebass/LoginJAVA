@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registroUsuarios.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registroUsuarios.java" afterDir="false" />
+    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="creacion del form para registro">
+      <change afterPath="$PROJECT_DIR$/src/loginusuario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loginusuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paginaprinicipal.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paginaprinicipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usuarios.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registroUsuarios.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/registroUsuarios.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registroUsuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/registroUsuarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +45,49 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/eduar/Downloads/Login/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.loginusuario (1)">
+    <configuration name="loginusuario (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loginusuario" />
+      <module name="Login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginusuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loginusuario" />
+      <module name="Login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paginaprinicipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paginaprinicipal" />
+      <module name="Login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="registroUsuarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="registroUsuarios" />
+      <module name="Login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.loginusuario (1)" />
+        <item itemvalue="Application.registroUsuarios" />
+        <item itemvalue="Application.loginusuario" />
+        <item itemvalue="Application.paginaprinicipal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,11 +96,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689608148367</updated>
-      <workItem from="1689608149378" duration="365000" />
+      <workItem from="1689608149378" duration="2508000" />
+      <workItem from="1689611582672" duration="5082000" />
     </task>
+    <task id="LOCAL-00001" summary="creacion del form para registro">
+      <created>1689608581880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689608581880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creacion del form para registro" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion del form para registro" />
   </component>
 </project>
