@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="login listo">
+    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="bugs fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/usuarios.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuarios.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginusuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginusuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
       <workItem from="1689633568347" duration="58000" />
       <workItem from="1689643056753" duration="15000" />
       <workItem from="1689646941051" duration="3556000" />
+      <workItem from="1689732034504" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del form para registro">
       <created>1689608581880</created>
@@ -111,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689616755547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Centro de forms y establecimiento de dim">
+      <created>1689732302425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689732302425</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bugs fixed">
+      <created>1689732387765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689732387765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creacion del form para registro" />
     <MESSAGE value="login listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="login listo" />
+    <MESSAGE value="Centro de forms y establecimiento de dim" />
+    <MESSAGE value="bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
   </component>
 </project>

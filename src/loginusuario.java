@@ -58,6 +58,8 @@ public class loginusuario {
                         frame.setContentPane(new paginaprinicipal(usuario).pagemain);
                         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                         frame.pack();
+                        frame.setLocationRelativeTo(null);
+                        frame.setSize(250, 300);
                         frame.setVisible(true);
 
                     } else {
