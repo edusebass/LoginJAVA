@@ -31,7 +31,8 @@ public class paginaprinicipal extends loginusuario {
         frame.setContentPane(new paginaprinicipal("").pagemain);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
+        frame.setLocationRelativeTo(null);
+        frame.setSize(250, 300);
         frame.setVisible(true);
-        System.out.println();
     }
 }

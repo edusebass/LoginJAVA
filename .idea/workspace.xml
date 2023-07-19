@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="creacion del form para registro">
-      <change afterPath="$PROJECT_DIR$/src/loginusuario.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loginusuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paginaprinicipal.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paginaprinicipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usuarios.dat" afterDir="false" />
+    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="login listo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registroUsuarios.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/registroUsuarios.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registroUsuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/registroUsuarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuarios.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuarios.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +29,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "207",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eduar/Downloads/Login/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;207&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/eduar/Downloads/Login/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.loginusuario (1)">
+}</component>
+  <component name="RunManager" selected="Application.loginusuario">
     <configuration name="loginusuario (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loginusuario" />
       <module name="Login" />
@@ -81,9 +75,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.loginusuario (1)" />
-        <item itemvalue="Application.registroUsuarios" />
         <item itemvalue="Application.loginusuario" />
+        <item itemvalue="Application.registroUsuarios" />
+        <item itemvalue="Application.loginusuario (1)" />
         <item itemvalue="Application.paginaprinicipal" />
       </list>
     </recent_temporary>
@@ -98,6 +92,10 @@
       <updated>1689608148367</updated>
       <workItem from="1689608149378" duration="2508000" />
       <workItem from="1689611582672" duration="5082000" />
+      <workItem from="1689616738123" duration="348000" />
+      <workItem from="1689633568347" duration="58000" />
+      <workItem from="1689643056753" duration="15000" />
+      <workItem from="1689646941051" duration="3556000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del form para registro">
       <created>1689608581880</created>
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689608581880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="login listo">
+      <created>1689616755547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689616755547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creacion del form para registro" />
-    <option name="LAST_COMMIT_MESSAGE" value="creacion del form para registro" />
+    <MESSAGE value="login listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="login listo" />
   </component>
 </project>
