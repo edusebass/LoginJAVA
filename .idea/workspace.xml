@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.loginusuario">
+  <component name="RunManager" selected="Application.registroUsuarios">
     <configuration name="loginusuario (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loginusuario" />
       <module name="Login" />
@@ -75,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.loginusuario" />
         <item itemvalue="Application.registroUsuarios" />
+        <item itemvalue="Application.loginusuario" />
         <item itemvalue="Application.loginusuario (1)" />
         <item itemvalue="Application.paginaprinicipal" />
       </list>
