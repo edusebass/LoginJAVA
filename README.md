@@ -30,6 +30,10 @@ Y en el caso que el usuario ya exista en la base sale un mensaje que ingrese nue
 
 ![img.png](img/img4.png)
 
+Ahora si damos al boton inicio de sesion nos dirige hacia esta parte en la cual
+se presenta la interfaz de inicio de sesion, esta es similar pero sirve solo 
+para inicio de sesion.
+
 ![img.png](img/img.png)
 
 ![img.png](img/img2.png)
