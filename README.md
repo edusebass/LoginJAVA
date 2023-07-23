@@ -17,6 +17,9 @@ si fuera el caso par que se dirija a inicar sesion.
 
 ![](img/1.png)
 
+Si ingresamos nuestro usuario y y contraseña al dar en el boton registrar nos aparecera
+esa notificacion de que se a podido ingresar correctamente el usuario.
+
 ![](img/2.png)
 
 ![](img/3.png)
