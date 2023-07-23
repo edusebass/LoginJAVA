@@ -36,6 +36,8 @@ para inicio de sesion.
 
 ![img.png](img/img.png)
 
+Ingresamos las credenciales en los puestos señalados y podemos entrar a la interfaz de bienvenida.
+
 ![img.png](img/img2.png)
 
 ![img.png](img/img3.png)
