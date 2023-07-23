@@ -11,3 +11,9 @@ Instruccion:
 - Pueden trabajar grupos de tres.
 ---
 
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![img.png](img/img.png)
+![img.png](img/img2.png)
+![img.png](img/img3.png)

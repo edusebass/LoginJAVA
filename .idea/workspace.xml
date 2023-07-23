@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="bug fix">
+    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="reamde update">
+      <change afterPath="$PROJECT_DIR$/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuarios.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuarios.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="689e436b-8e1e-4a54-9547-ebf53252c536" />
+        <option name="url" value="https://github.com/edusebass/LoginJAVA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -101,7 +117,7 @@
       <workItem from="1689646941051" duration="3556000" />
       <workItem from="1689732034504" duration="421000" />
       <workItem from="1689732469491" duration="22000" />
-      <workItem from="1690114786347" duration="127000" />
+      <workItem from="1690114786347" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del form para registro">
       <created>1689608581880</created>
@@ -138,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689732484273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reamde update">
+      <created>1690114930824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690114930824</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +173,7 @@
     <MESSAGE value="Centro de forms y establecimiento de dim" />
     <MESSAGE value="bugs fixed" />
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="reamde update" />
+    <option name="LAST_COMMIT_MESSAGE" value="reamde update" />
   </component>
 </project>
