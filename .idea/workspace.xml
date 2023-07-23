@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="bugs fixed">
+    <list default="true" id="93cb560c-8ff8-44fe-a820-4dd39aa481e1" name="Changes" comment="bug fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginusuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginusuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ShoP1VCDUsDBp36IWEkcvFDUK2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,6 +100,8 @@
       <workItem from="1689643056753" duration="15000" />
       <workItem from="1689646941051" duration="3556000" />
       <workItem from="1689732034504" duration="421000" />
+      <workItem from="1689732469491" duration="22000" />
+      <workItem from="1690114786347" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del form para registro">
       <created>1689608581880</created>
@@ -126,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689732387765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bug fix">
+      <created>1689732484273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689732484273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +149,7 @@
     <MESSAGE value="login listo" />
     <MESSAGE value="Centro de forms y establecimiento de dim" />
     <MESSAGE value="bugs fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
+    <MESSAGE value="bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
   </component>
 </project>
