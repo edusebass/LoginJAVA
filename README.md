@@ -26,6 +26,10 @@ Una vez registrado se guarda en el archivo usuarios.dat el usuario y la contrase
 
 ![](img/3.png)
 
+Y en el caso que el usuario ya exista en la base sale un mensaje que ingrese nuevamente las credenciales a registrar.
+
+![img.png](img/img4.png)
+
 ![img.png](img/img.png)
 
 ![img.png](img/img2.png)
