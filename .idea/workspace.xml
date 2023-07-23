@@ -117,7 +117,7 @@
       <workItem from="1689732034504" duration="421000" />
       <workItem from="1689732469491" duration="22000" />
       <workItem from="1690114786347" duration="894000" />
-      <workItem from="1690129134719" duration="889000" />
+      <workItem from="1690129134719" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del form para registro">
       <created>1689608581880</created>
@@ -196,7 +196,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690129999848</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="readme update">
+      <created>1690130139922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690130139922</updated>
+    </task>
+    <task id="LOCAL-00013" summary="readme update">
+      <created>1690130258319</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690130258319</updated>
+    </task>
+    <task id="LOCAL-00014" summary="readme update">
+      <created>1690130337041</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690130337041</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

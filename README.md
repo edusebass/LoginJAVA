@@ -41,3 +41,7 @@ Ingresamos las credenciales en los puestos señalados y podemos entrar a la inte
 ![img.png](img/img2.png)
 
 ![img.png](img/img3.png)
+
+En el caso que tambien no exista el usuario no le deja entrar al sistema
+
+![img.png](img/img5.png)
