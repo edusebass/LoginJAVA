@@ -22,6 +22,8 @@ esa notificacion de que se a podido ingresar correctamente el usuario.
 
 ![](img/2.png)
 
+Una vez registrado se guarda en el archivo usuarios.dat el usuario y la contraseña.
+
 ![](img/3.png)
 
 ![img.png](img/img.png)
