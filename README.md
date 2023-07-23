@@ -10,6 +10,10 @@ Instruccion:
 
 - Pueden trabajar grupos de tres.
 ---
+La funcionalidad de esta aplicacion consiste en el inicio que es esta parte
+de el registro de usuarios, es una interfaz intuitiva para ingreso de usuario 
+y contraseña ademas de un boton de para registrarse y otro 
+si fuera el caso par que se dirija a inicar sesion.
 
 ![](img/1.png)
 
